@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T04:11:50.416Z" agent="5.0 (Windows)" etag="QMmBO4Nh_J2TgAdGTyji" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-19T04:13:25.833Z" agent="5.0 (Windows)" etag="s7ssQLTu-uDfuJDby8sw" version="13.7.3" type="github">
   <diagram id="f7K92m8lPwK_zH6lzFKC" name="Page-1">
     <mxGraphModel dx="948" dy="2531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -221,19 +221,19 @@
           <mxGeometry x="110" y="1320" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-67" value="user id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1320" width="130" height="70" as="geometry" />
+          <mxGeometry x="255" y="1310" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-68" value="catagories id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1360" width="130" height="70" as="geometry" />
+          <mxGeometry x="410" y="1320" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-69" value="subcatagories id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1440" width="130" height="70" as="geometry" />
+          <mxGeometry x="400" y="1400" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-70" value="subsubcatagories id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1530" width="130" height="70" as="geometry" />
+          <mxGeometry x="510" y="1450" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-71" value="unit price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1610" width="130" height="70" as="geometry" />
+          <mxGeometry x="560" y="1530" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-72" value="attributes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="1760" width="130" height="70" as="geometry" />
@@ -254,7 +254,7 @@
           <mxGeometry x="240" y="1730" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-78" value="published" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1620" width="130" height="70" as="geometry" />
+          <mxGeometry x="375" y="1580" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-79" value="varient product" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1660" width="130" height="70" as="geometry" />
@@ -269,10 +269,10 @@
           <mxGeometry x="200" y="1565" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-83" value="descriptions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="675" y="1760" width="130" height="70" as="geometry" />
+          <mxGeometry x="600" y="1680" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ezx1aa0zkLy5vHlaYmTx-84" value="tags" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="675" y="1650" width="130" height="70" as="geometry" />
+          <mxGeometry x="600" y="1600" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
